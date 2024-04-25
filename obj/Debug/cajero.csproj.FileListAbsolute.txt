@@ -1,0 +1,20 @@
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\bin\Debug\cajero.exe.config
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\bin\Debug\cajero.exe
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\bin\Debug\cajero.pdb
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.Form1.resources
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.Properties.Resources.resources
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.csproj.GenerateResource.cache
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.exe
+C:\Users\perla\Desktop\Ejercicios POO\interfaz\cajero\obj\Debug\cajero.pdb
+D:\cajero\bin\Debug\cajero.exe.config
+D:\cajero\bin\Debug\cajero.exe
+D:\cajero\bin\Debug\cajero.pdb
+D:\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+D:\cajero\obj\Debug\cajero.Form1.resources
+D:\cajero\obj\Debug\cajero.Properties.Resources.resources
+D:\cajero\obj\Debug\cajero.csproj.GenerateResource.cache
+D:\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+D:\cajero\obj\Debug\cajero.exe
+D:\cajero\obj\Debug\cajero.pdb
