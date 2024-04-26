@@ -236,6 +236,11 @@ namespace cajero
         {
 
         }
+
+        private void CUENTA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

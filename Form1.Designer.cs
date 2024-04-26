@@ -249,11 +249,12 @@
             // CUENTA
             // 
             this.CUENTA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CUENTA.Location = new System.Drawing.Point(299, 60);
+            this.CUENTA.Location = new System.Drawing.Point(299, 63);
             this.CUENTA.MaxLength = 5;
             this.CUENTA.Name = "CUENTA";
             this.CUENTA.Size = new System.Drawing.Size(100, 31);
             this.CUENTA.TabIndex = 3;
+            this.CUENTA.TextChanged += new System.EventHandler(this.CUENTA_TextChanged);
             // 
             // label3
             // 
@@ -287,7 +288,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = global::cajero.Properties.Resources.deposito_de_monedas;
             this.pictureBox2.Location = new System.Drawing.Point(196, 338);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(256, 90);
@@ -296,7 +296,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::cajero.Properties.Resources.retirar__1_;
             this.pictureBox1.Location = new System.Drawing.Point(196, 228);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Padding = new System.Windows.Forms.Padding(1);
